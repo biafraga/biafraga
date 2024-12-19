@@ -71,12 +71,4 @@ Me chamo Bia e tenho 25 anos. Atualmente, estou cursando Análise e Desenvolvime
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=biafraga&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=biafraga&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-
 </p>
