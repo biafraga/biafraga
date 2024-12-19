@@ -23,7 +23,7 @@ Me chamo Bia e tenho 25 anos. Atualmente, estou cursando Análise e Desenvolvime
         <img 
             alt="Linkedin" 
             title="Me adicione no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/color=236ad3&labelColor=1157ba&style=for-the-badge&logo=person&label=linkedin&logoColor=white"
+            src="labelColor=1157ba&style=for-the-badge&logo=person&label=linkedin&logoColor=white"
         />
     </a>
 </p>
