@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Bia e tenho 25 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC RJ. Cada dia mais tenho buscado aprofundar meus conhecimentos na área de tecnologia!
+Me chamo Bia e tenho 25 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC RJ. Cada dia mais tenho buscado aprofundar meus conhecimentos na área de tecnologia! Se conecte comigo no "[Linkedin](https://www.linkedin.com/in/beatrizfraga/)"
 
 <p align="left">
     <a href="https://github.com/biafraga?tab=repositories&sort=stargazers">
@@ -17,13 +17,6 @@ Me chamo Bia e tenho 25 anos. Atualmente, estou cursando Análise e Desenvolvime
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/biafraga?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/beatrizfraga/">
-        <img 
-            alt="Linkedin" 
-            title="Me adicione no Linkedin" 
-            src="labelColor=1157ba&style=for-the-badge&logo=person&label=linkedin&logoColor=white"
         />
     </a>
 </p>
