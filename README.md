@@ -9,21 +9,21 @@ Me chamo Bia e tenho 25 anos. Atualmente, estou cursando Análise e Desenvolvime
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/biafraga?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/biafraga?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/biafraga?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/beatrizfraga/">
         <img 
             alt="Linkedin" 
             title="Me adicione no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/biafraga?color=236ad3&labelColor=1157ba&style=for-the-badge&logo=person&label=linkedin&logoColor=white"
         />
     </a>
 </p>
