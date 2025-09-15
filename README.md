@@ -1,4 +1,4 @@
-# Beatriz Fraga
+# Bia Fraga
 
 **`Desenvolvedora`**
 
