@@ -1,8 +1,8 @@
 # Beatriz Fraga
 
-**`Desenvolvedora Front-end`**
+**`Desenvolvedora`**
 
-Me chamo Beatriz e tenho 26 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC RJ. Cada dia mais tenho buscado aprofundar meus conhecimentos na área de tecnologia! Conecte-se comigo no "[Linkedin](https://www.linkedin.com/in/beatrizfraga/)"
+Desenvolvedora em formação com background em Relações Internacionais (UFF). Cursando Análise e Desenvolvimento de Sistemas (Faculdade SENAC RJ) e aprofundando conhecimentos em Python , Java , SQL e Design de Interfaces com HTML, CSS e Figma. Conecte-se comigo no "[Linkedin](https://www.linkedin.com/in/beatrizfraga/)"
 
 <p align="left">
     <a href="https://github.com/biafraga?tab=repositories&sort=stargazers">
