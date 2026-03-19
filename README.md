@@ -2,24 +2,7 @@
 
 **`Desenvolvedora`**
 
-Desenvolvedora em formação com background em Relações Internacionais (UFF). Cursando Análise e Desenvolvimento de Sistemas (Faculdade SENAC RJ) e aprofundando conhecimentos em Python , Java , SQL e Design de Interfaces com HTML, CSS e Figma. Conecte-se comigo no "[Linkedin](https://www.linkedin.com/in/beatrizfraga/)"
-
-<p align="left">
-    <a href="https://github.com/biafraga?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/biafraga?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/biafraga?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/biafraga?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Desenvolvedora Web e Mobile em formação. Cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac RJ e focada em aprofundar conhecimentos em Angular, React Native, Spring Boot, APIs REST e Testes de Software. Possuo também base consolidada em Design de Interfaces com HTML, CSS e Figma. Conecte-se comigo no "[Linkedin](https://www.linkedin.com/in/beatrizfraga/)"
 
 ---
 
@@ -27,37 +10,48 @@ Desenvolvedora em formação com background em Relações Internacionais (UFF). 
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java" 
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React Native" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+/>
 <br/>
 <br/>
 
